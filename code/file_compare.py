@@ -1,3 +1,9 @@
+'''
+Tan Hao Qin 1000521
+Tay Kang Sheng 1000591
+Agrim Singh 1000748
+'''
+
 import sys
 
 # Hash Values for words in New File
